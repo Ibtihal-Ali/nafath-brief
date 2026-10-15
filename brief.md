@@ -16,7 +16,16 @@ Android asks users for permission when an app needs access to certain features o
 Resource: Request app permissions - https://developer.android.com/training/permissions
 
 ## Networking
+DNS over HTTPS (DoH) protects DNS requests by sending them through an encrypted connection. This makes it harder for other people on the network to see which website names a user is looking for. In NAFATH, DoH can help protect users when they connect to the service. However, it does not hide all online activity, guarantee that a website is safe, or stop every cyberattack. Other security measures are still needed to protect users and their information.
+Resource: DNS over HTTPS - https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/
+
 ## Cybersecurity
+Phishing-resistant multi-factor authentication (MFA) helps protect users from fake login pages that try to steal their login details. For NAFATH, using passkeys or FIDO2 security keys can provide strong protection against phishing. However, SMS codes, email codes, and normal approval notifications may still be tricked or stolen. The system should use phishing-resistant methods to help keep citizen accounts safe and reduce the risk of unauthorized access.
+Resource: Implementing Phishing-Resistant MFA - https://www.cisa.gov/sites/default/files/2023-01/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf
+
 ## Data
+Oman's Personal Data Protection Law was issued under Royal Decree No. 6/2022. It aims to protect people's personal information. Before processing personal data, the controller or processor must get the person's consent when required by law. People have rights over their data, including withdrawing consent and asking to correct, update, or delete their information. They must also be informed about personal data breaches as required by law. NAFATH should follow these rules when collecting and storing citizens' information.
+Resource: Personal Data Protection Law - https://mtcit.gov.om/ar/3/8/75/1034
+
 ## Misconception in My Track
 ## Open Question
