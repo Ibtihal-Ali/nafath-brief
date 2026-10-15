@@ -28,4 +28,8 @@ Oman's Personal Data Protection Law was issued under Royal Decree No. 6/2022. It
 Resource: Personal Data Protection Law - https://mtcit.gov.om/ar/3/8/75/1034
 
 ## Misconception in My Track
+A common misconception is that DNS over HTTPS makes all internet activity private and protects users from every online attack. This is not true. DNS over HTTPS encrypts DNS queries inside HTTPS requests, helping prevent attackers from changing or forging DNS traffic. However, it does not guarantee complete privacy or protect users from every cyberattack. NAFATH should use DNS over HTTPS together with other security measures to protect users and their information.The “DNS over HTTPS (DoH)” section explains that DoH encrypts DNS queries and helps prevent DNS traffic from being changed.
+Resource evidence: DNS over HTTPS - https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/
+
 ## Open Question
+How can NAFATH protect DNS requests while also keeping users safe from other online threats?
